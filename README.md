@@ -3,11 +3,6 @@
 Bring new life to your 20+ year-old GameBoy Advance with a crisp IPS V2 screen and a sleek black shell.  
 This guide walks you through the entire process—from parts to polish.
 
-# 🕹 All-Black IPS Modded GameBoy Advance – Build Guide
-
-Bring new life to your 20+ year-old GameBoy Advance with a crisp IPS V2 screen and a sleek black shell.  
-This guide walks you through the entire process—from parts to polish.
-
 ---
 
 ## 📚 Table of Contents
