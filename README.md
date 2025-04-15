@@ -1,2 +1,5 @@
-# gba-ips-mod-guide
-A guide to building a modded GameBoy Advance with an IPS screen
+## 📖 Modding Guide
+
+Looking to build your own all-black IPS modded GameBoy Advance?
+
+Check out the full guide here 👉 [GBA_IPS_Mod_Guide.md](./GBA_IPS_Mod_Guide.md)
