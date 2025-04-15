@@ -46,7 +46,8 @@ Whether you’re a beginner or just GBA-curious—this guide is for you.
 
 ## 📸 Want to see the final build?
 
-(./Blackout_GBA_turned-on.jpg)
+![Modded GBA](./Blackout_GBA_turned-on.jpg)
+
 ---
 
 Feel free to fork, improve, or ask questions via Issues or Pull Requests.
