@@ -1,6 +1,6 @@
 # 🕹️ All-Black IPS Modded GameBoy Advance – Build Guide
 
-![Modded GBA](./gba-finished.jpg) <!-- Make sure to upload your image with this name or update the path -->
+![Modded GBA](./Blackout_GBA_Completed_Build.jpg) <!-- Make sure to upload your image with this name or update the path -->
 
 Revive your childhood handheld and give it a modern twist.  
 This guide walks you through how I built an all-black, IPS screen-modded GBA with a 32-pin motherboard—my first-ever mod project!
@@ -46,7 +46,7 @@ Whether you’re a beginner or just GBA-curious—this guide is for you.
 
 ## 📸 Want to see the final build?
 
-Upload your photo (e.g. `gba-finished.jpg`) to this repo and show it off right here!
+Upload your photo (e.g. 'Blackout_GBA_turned-on.jpg') to this repo and show it off right here!
 
 ---
 
