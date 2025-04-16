@@ -7,6 +7,13 @@ This guide walks you through how I built an all-black, IPS screen-modded GBA wit
 
 ---
 
+## 📣 Featured Article
+
+📝 I wrote a full guide + reflection on my modding process over on Dev.to:  
+👉 [How I Built and Documented My First GameBoy Advance IPS Mod](https://dev.to/caesarwattshall/how-i-built-and-documented-my-first-game-boy-advance-ips-mod-18i1)
+
+---
+
 ## 📚 Table of Contents
 
 - [Introduction](#introduction)
